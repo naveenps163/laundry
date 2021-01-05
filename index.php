@@ -13,7 +13,7 @@
 <body>
   <section class="container">
     <div class="login">
-      <h1>Login to Laundry Shop............welcome to naveen project.....this is naveen projects</h1>
+      <h1>Login to Laundry Shop...</h1>
       <form method="post" id="form-login">
         <p><input autofocus type="text" id="username" value="" placeholder="Username" required></p>
         <p><input type="password" id="password" value="" placeholder="Password" required></p>
